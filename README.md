@@ -8,7 +8,7 @@ TO get coin details by passing Query Parameters
 To get Devation by passing Query Parameters
 
 ```bash
-api/deviation?coin=bitcoin
+/api/deviation?coin=bitcoin
 ```
 
 
